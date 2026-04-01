@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hey, I'm Shaswat
 
-<!--
-**singhshaswat/singhshaswat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year Computer Science Student @ IIIT Nagpur
+💻 Passionate about **Machine Learning, AI & Development**
+🚀 Building projects that actually solve real problems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I'm Working On
+
+* 🔐 Privacy-Preserving Federated Learning (PPFL)
+* 🤖 AI-powered applications (LangChain, LLMs)
+* 🌐 Full-stack development projects
+
+---
+
+## ⚡ Tech Stack
+
+**Languages:**
+C++ • Python • JavaScript
+
+**Frameworks & Tools:**
+React • Node.js • FastAPI • OpenCV • TensorFlow • Keras
+
+**AI/ML:**
+Scikit-learn • Deep Learning • Computer Vision • NLP
+
+---
+
+## 🏆 Projects
+
+* 🎭 Face Mask Detection using InceptionV3
+* 📊 Salary Prediction ML Model with GUI
+* 🎟️ Movie Ticket Booking System (C++)
+* 🚆 Indian Railways Data Analysis
+
+---
+
+## 📈 Currently Learning
+
+* LangChain • LangGraph • AI Agents
+* System Design basics
+* Advanced DSA
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: (https://www.linkedin.com/in/shaswat-singh-a11a43298/)
+* 📧 Email: (shaswatprof112@gmail.com)
+
+---
+
+
