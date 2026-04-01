@@ -50,5 +50,8 @@ Scikit-learn • Deep Learning • Computer Vision • NLP
 * 📧 Email: (shaswatprof112@gmail.com)
 
 ---
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=singhshaswat&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=singhshaswat&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=singhshaswat&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
