@@ -19,11 +19,11 @@
 <div>
 <p>
     * <img src="https://cdn.codechef.com/images/cc-logo.svg" height="50" width="150">
-    <span class="rating">4 &#9733</span> (1850 Highest) &nbsp;<a href = "https://www.codechef.com/users/graphistic_123">Profile</a>
+    <span class="rating">3 &#9733</span> (1651 Highest) &nbsp;<a href = "https://www.codechef.com/users/graphistic_123">Profile</a>
 </p>
 <p>
     * &nbsp;&nbsp;&nbsp;&nbsp;</tab><img src ="https://upload.wikimedia.org/wikipedia/commons/c/c2/LeetCode_Logo_2.png" height="40" width="125">  
-    <span class="cfcolor">&nbsp;&nbsp;&nbsp;Knight @Leetcode </span>(1869 Highest) &nbsp;<a href = "https://leetcode.com/u/singhShaswat/">Profile</a>
+    <span class="cfcolor">&nbsp;&nbsp;&nbsp;Knight @Leetcode </span>(1812 Highest) &nbsp;<a href = "https://leetcode.com/u/singhShaswat/">Profile</a>
 </p>
 </div>
 
