@@ -56,9 +56,13 @@
 
 ---
 ## 🐍 The Contribution Trail
-<div align="center">
-    
-  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/singhshaswat/singhshaswat/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
 
+<hr />
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=50&duration=4000&lines=Thanks+for+visiting!+👋;Drop+me+a+message+on+LinkedIn!;" />
+</p>
 
