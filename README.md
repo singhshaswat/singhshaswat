@@ -1,10 +1,18 @@
-# 👋 Hey, I'm Shaswat
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shaswat%20Singh&fontSize=80&animation=fadeIn&fontAlignY=35" />
+</div>
 
-🎓 3rd Year Computer Science Student @ IIIT Nagpur
-💻 Passionate about **Machine Learning, AI & Development**
-🚀 Building projects that actually solve real problems
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Software+Developer;Full+Stack+Wizard;AI+Enthusiast;" />
+</p>
 
----
+<div align="center">
+  <a href="https://www.linkedin.com/in/shaswat-singh-a11a43298/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=shaswatprof112@gmail.com&su=Hello+Kawyanshu!" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
+</div>
+
+<br/>
+
 
 ## 🧠 What I'm Working On
 
@@ -39,17 +47,15 @@
 
 ---
 
-## 📫 Connect With Me
-
-* 💼 LinkedIn: (https://www.linkedin.com/in/shaswat-singh-a11a43298/)
-* 📧 Email: (shaswatprof112@gmail.com)
-
 ---
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=singhshaswat&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=singhshaswat&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=singhshaswat&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+---
+## 🐍 The Contribution Trail
 <div align="center">
     
   ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
