@@ -28,7 +28,7 @@
 </div>
 
 <hr>
-## 🧠 What I'm Working On
+# 🧠 What I'm Working On
 
 * 🔐 Privacy-Preserving Federated Learning (PPFL)
 * 🤖 AI-powered applications (LangChain, LLMs)
